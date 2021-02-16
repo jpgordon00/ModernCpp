@@ -1,7 +1,7 @@
 ## PusoedoBanking
 A simple banking program using [Modern CPP](https://github.com/TheLartians/ModernCppStarter) starter.
 
-## What is this project and why this project?
+## What is this project?
 - A simple banking program that stores records in memory using [signly linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/singly-linked-list/).
 - Demonstrates my knowledge of C++ and C by creating a project in both C and C++.
 > This project uses define statements, IO functions and libraries specific to either a C or C++ standard. It also uses command arguments in its logic.
